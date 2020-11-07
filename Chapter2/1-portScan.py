@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import optparse
+# Reduce scope of wildcard import.
 from socket import *
 from threading import *
 
